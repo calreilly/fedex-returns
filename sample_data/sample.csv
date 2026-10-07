@@ -1,0 +1,5 @@
+RMA #,Name,Email Address,Phone Number,Number of Boxes,Pickup or Drop-off,Street Address,City,State,Zip
+10001,Jane Doe,jane@example.com,(512) 555-0142,2,Schedule a FedEx pickup,1 Elm St,Austin,TX,78701
+10002,Sam Rivera,sam@example.com,415-555-0199,1,Drop off at local FedEx,22 Pine Ave,San Francisco,CA,94103
+10003,Priya Shah,priya@example.com,3125550177,4,Schedule a FedEx pickup,500 Lake Dr,Chicago,IL,60601
+10004,Bad Example,not-an-email,123,0,Drop off at local FedEx,,,,
